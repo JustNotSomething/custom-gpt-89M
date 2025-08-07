@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+body {
+  margin: 0;
+  font-family: 'Roboto Slab', serif;
+  color: #C5C6C7;
+  background-color: #0B0C10; 
+}
